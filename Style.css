@@ -1,0 +1,178 @@
+body{
+
+
+}
+
+.first {
+ margin-right:20%;
+float:right; 
+height:100px;
+width:200px; 
+} 
+
+.container {
+    width:100%;
+    height:auto;
+    padding:40%;
+}
+
+.button{border-radius:15px}
+background-color:#528D9E;
+}
+
+
+.second {
+ margin-left:1%;
+float:left; 
+height:500px;
+width:500px; 
+} 
+
+.container {
+    width:100%;
+    height:auto;
+    padding:1%;
+}
+
+.third {
+ margin-left:1%;
+float:left; 
+height:500px;
+width:500px; 
+} 
+
+.container {
+    width:100%;
+    height:auto;
+    padding:1%;
+}
+
+<!--section--5>
+.fifth {
+margin-right:20%;
+float:right; 
+height:100px;
+width:200px; 
+} 
+
+.container {
+    width:80%;
+    height:100px;
+    padding:40%;
+}
+
+.left-part{
+width=50%;
+float:left;
+}
+
+.right-part{
+width=50%
+float:right;
+}
+
+
+.seven {
+ margin-left:1%;
+float:left; 
+height:500px;
+width:500px; 
+} 
+
+.container {
+    width:100%;
+    height:auto;
+    padding:1%;
+}
+
+<--Frequently asked questions-->
+{
+	background:#fefefe;
+	padding:0;
+}
+.box{
+	width:400px;
+	margin:100px auto;
+	background=fff;
+	border-radius=7px;
+	box-shadow; 1px 2px 4px rgba(0,0,0,.3);
+}
+.box heading {
+	border-radius:7px 7px 0px 0px;
+	padding:10px;
+	colour:#ffffff;
+	text-align:center;
+	font-family: "calibri";
+}
+
+.frequently asked questions{
+	padding:0px 20px 20px;
+}
+::-webkit-details-marker{
+	float:right;
+	margin-top:3px;
+}
+
+details{
+	background:#f6f6f6;
+	padding:10px 20px;
+	border-radius:7px;
+	margin-top:20px;
+	font-family:"calibri";
+	font-size:14px;
+	letter-spaces:1px;
+}
+details summary{
+	outline:none;
+}
+
+.flex {
+ display: flex;
+ align-items: center;
+ justify-content: center;
+}
+
+.app {
+ &-btn {
+  width: 45%;
+  max-width: 160px;
+  color: #fff;
+  margin: 20px 10px;
+  text-align: left;
+  border-radius: 5px;
+  text-decoration: none;
+  font-family: "Lucida Grande", sans-serif;
+  font-size: 10px;
+  text-transform: uppercase;
+  &.blu {
+   background-color: #101010;
+   transition: background-color 0.25s linear;
+   &:hover {
+    background-color: #454545;
+   }
+  }
+  i {
+   width: 20%;
+   text-align: center;
+   font-size: 28px;
+   margin-right: 7px;
+  }
+  .big-txt {
+   font-size: 17px;
+   text-transform: capitalize;
+  }
+ }
+}
+
+.nine {
+margin-right:20%;
+float:right; 
+height:200px;
+width:200px; 
+} 
+
+.container {
+    width:100%;
+    height:auto;
+    padding:40%;
+}
